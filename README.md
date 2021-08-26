@@ -3,8 +3,6 @@
 We are always improving our product and would love to hear about (and fix!) any bugs
 you've come across while using [eggy](useeggy.com).
 
-This repo handles bugs and enhancements/feature requests related to the eggy web app and push notification delivery. (Note: issues with the [eggy-ios](https://github.com/eggybytes/eggy-ios) or [eggy-android](https://github.com/eggybytes/eggy-android) SDKs should be filed in those repos, respectively.)
-
 ## Check out the existing `Issues` list
 
 Check out the existing `Issues` list at https://github.com/eggybytes/eggy-issues/issues or by
